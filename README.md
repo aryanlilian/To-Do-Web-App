@@ -5,6 +5,3 @@ The website is a very simple page with some stylesheet and some very cool featur
 Index-Page:
 ![](README-images/index.png)
 
-Update-Page:
-![](README-images/update.png)
-
